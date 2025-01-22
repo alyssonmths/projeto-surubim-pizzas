@@ -57,7 +57,11 @@ Apesar de ser aparentemente simples de usar, a dashboard conta com as principais
             <td></td>
         </tr>
         <tr>
-            <td>AJAX</td>
+            <td>Bootstrap</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Ajax</td>
             <td></td>
         </tr>
     </tbody>
