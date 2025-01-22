@@ -1,0 +1,32 @@
+#carrinho {
+    z-index: 1;
+    display: none;
+    position: fixed;
+    top: 130px;
+    right: 0px;
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(10px);
+    border-radius: 15px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border: 1px solid white;
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+#entrega {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+#entrega form {
+    width: 60%;
+}
+
+#entrega .btn {
+    background-color: rgb(252, 214, 46);
+}
